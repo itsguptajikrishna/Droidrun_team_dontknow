@@ -1,0 +1,6 @@
+{
+  "title": "Precondition Failed",
+  "status": 412,
+  "detail": "Error while acquiring device: Please contact support",
+  "errors": []
+}
